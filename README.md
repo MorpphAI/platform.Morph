@@ -20,19 +20,27 @@
 ## Sobre o Projeto
 Bem-vindo à documentação oficial da Morph IA, uma plataforma inovadora voltada para a criação, gerenciamento e disponibilização de agentes de IA inteligentes. Este repositório contém todas as informações necessárias para entender e configurar o projeto, além de oferecer insights sobre a arquitetura, ferramentas utilizadas e muito mais.
 
-O material disponibilizado aqui será útil para sua introdução ao desenvolvimento de sites utilizando o Astro, ajudando a criar projetos otimizados e de alta performance.
 <!-- ROADMAP OF PROJECT -->
 
-## ROADMAP
+## Ferramentas utilizadas
 
-- [Introdução](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro)
-  - [Por que astro?](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/whyastro.md)
-  - [Instalação](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/instalacao.md)
-  - [Hello World!](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/helloworld.md)
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
+são **extremamente apreciadas**
+
+1. bubble - ferramente No Code 
+2. Supabase - Banco de dads 
+3. Figma - Design 
+   
+## Documentação 
+
+- [Arquitetura](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro)
+  - [EndPoints](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/whyastro.md)
+  - [Esquema Relacional](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/instalacao.md)
+<!--  - [Hello World!](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/helloworld.md)
 - [Conceitos](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)
   - [Estruturas de Dados](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/estruturas.md)
   - [Vetores](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/vetores.md)
-- [Projeto](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)
+- [Projeto](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)](url) -->
 <!-- CONTRIBUTING -->
 
 ## Como Contribuir
@@ -50,7 +58,7 @@ são **extremamente apreciadas**
 
 - *Adilson Junior* - Developer & Member of He4rt Developers and Java Noroeste - [@Juniorbasck](https://www.linkedin.com/in/adilsonjunior4/)
 
-## Fontes utilizadas
+## Fontes de conteúdo
 
 - *Documentação oficial AstroJs* - [@documentação](https://astro.build/)
 - *O Que é Astro? Uma Introdução ao Popular Gerador de Sites Estáticos* - [@O Que é Astro?](https://kinsta.com/pt/blog/astro-js/)
@@ -58,7 +66,5 @@ são **extremamente apreciadas**
 ---
 
 <p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./.github/footer_4noobs.svg" width="380">
-  </a>
+  
 </p>
