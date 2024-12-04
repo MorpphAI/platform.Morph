@@ -1,9 +1,10 @@
 <p align="center">
-  <h1 align="center">Astro4noobs</h1>
+  <h1 align="center">Morph IA</h1>
 
 
   <p align="center">
     <br />
+    ![Texto Alternativo](content/images/morph.jpeg)
     <a href="https://github.com/MorpphAI/platform.Morph/blob/main/content/images/morph.jpeg"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
