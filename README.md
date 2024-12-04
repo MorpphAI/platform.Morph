@@ -1,11 +1,10 @@
 <p align="center">
   <h1 align="center">Astro4noobs</h1>
 
-  <h1 align="center"><img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="Imagem da linguagem" width="220"></h1>
 
   <p align="center">
     <br />
-    <a href="https://astro.build/"><strong>Explore a documentação »</strong></a>
+    <a href="https://github.com/MorpphAI/platform.Morph/blob/main/content/images/morph.jpeg"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Juniorbasck/astro4noobs/issues">Report Bug</a>
@@ -17,8 +16,7 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Este projeto tem como objetivo introduzir e explorar as funcionalidades do Astro Framework,concebido para quem deseja criar sites ricos em conteúdo, que sejam executados de forma rápida e suave. Sua natureza leve, estrutura intuitiva e curva de aprendizado suave o tornam atraente para desenvolvedores de todos os níveis de experiência.
-
+Bem-vindo à documentação oficial da Morph IA, uma plataforma inovadora voltada para a criação, gerenciamento e disponibilização de agentes de IA inteligentes. Este repositório contém todas as informações necessárias para entender e configurar o projeto, além de oferecer insights sobre a arquitetura, ferramentas utilizadas e muito mais.
 
 O material disponibilizado aqui será útil para sua introdução ao desenvolvimento de sites utilizando o Astro, ajudando a criar projetos otimizados e de alta performance.
 <!-- ROADMAP OF PROJECT -->
