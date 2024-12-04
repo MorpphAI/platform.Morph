@@ -1,13 +1,3 @@
-<!-- Logo 4noobs -->
-
-<p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./.github/header_4noobs.svg">
-  </a>
-</p>
-
-<!-- Title -->
-
 <p align="center">
   <h1 align="center">Astro4noobs</h1>
 
