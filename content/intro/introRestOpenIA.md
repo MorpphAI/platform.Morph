@@ -37,6 +37,17 @@ Content-Type: application/json
 | `temperature` | float      | Não         | Controla a criatividade da resposta (0.0 a 1.0). Padrão: `0.7`. |
 | `max_tokens`  | integer    | Não         | Número máximo de tokens na resposta. Padrão: `256`. |
 
+<br/>
+<br/>
+### 3. Gerenciamento de Arquivos
+
+Este endpoint permite enviar arquivos para a API. Ele é comumente usado para fine-tuning ou outras aplicações que dependem de dados externos.
+
+#### Endpoint:
+```http
+  POST https://api.openai.com/v1/files
+```
+
 
 <p align="right">
   <a href="https://github.com/Juniorbasck/astro4noobs/blob/main/content/intro/instalacao.md">Próximo -> Instalação</a>
