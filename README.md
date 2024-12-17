@@ -1,7 +1,10 @@
 <p align="center">
   <h1 align="center">Morph IA</h1>
   
+<p align="center">
   ![Texto Alternativo](content/images/morph.jpeg)
+</p>
+
 
   <p align="center">
     <br />
@@ -41,7 +44,8 @@ Bem-vindo à documentação oficial da Morph IA, uma plataforma inovadora voltad
 - [Projeto](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)](url) -->
 <!-- CONTRIBUTING -->
 
-## Como Contribuir
+
+<!-- ## Como Contribuir
 
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
 são **extremamente apreciadas**
@@ -50,11 +54,9 @@ são **extremamente apreciadas**
 2. Crie um branch com a nova feature (`git checkout -b feature/featureDaora`)
 3. Realize o Commit (`git commit -m 'Adicionado conteudo daora'`)
 4. Realize o Push no Branch (`git push origin feature/featureDaora`)
-5. Abra um Pull Request
+5. Abra um Pull Request](url)
+-->
 
-## Autores
-
-- *Adilson Junior* - Developer & Member of He4rt Developers and Java Noroeste - [@Juniorbasck](https://www.linkedin.com/in/adilsonjunior4/)
 
 ## Fontes de conteúdo
 
