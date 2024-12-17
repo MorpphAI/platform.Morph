@@ -56,10 +56,7 @@ são **extremamente apreciadas**
 
 ## Fontes de conteúdo
 
-- *Documentação oficial Supabase* - [@documentação]([https://astro.build/](https://supabase.com/docs])
+- *Documentação oficial Supabase* - [@documentação]([(https://supabase.com/docs]))
 - *Documentação oficial Bubble* - [@O Que é Astro?]([https://bubble.io/blog/no-code/])
 ---
 
-<p align="center">
-  
-</p>
