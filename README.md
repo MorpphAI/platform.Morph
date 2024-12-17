@@ -1,13 +1,12 @@
 <p align="center">
   <h1 align="center">Morph IA</h1>
   
-  ![Texto Alternativo](content/images/morph.jpeg)
+  <!-- ![Texto Alternativo](content/images/morph.jpeg) --> 
 
 
   <p align="center">
     <br />
-    ![Texto Alternativo](content/images/morph.jpeg)
-    <a href="https://morphia.com.br"><strong>Explore a documentação »</strong></a>
+      <a href="https://morphia.com.br"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Juniorbasck/astro4noobs/issues">Report Bug</a>
