@@ -82,6 +82,34 @@ Este endpoint permite enviar arquivos para a API. Ele é comumente usado para fi
   POST https://api.openai.com/v1/files
 ```
 
+#### Parâmetros da Requisição
+
+| Parâmetro | Tipo   | Obrigatório | Descrição                                  |
+|-----------|--------|-------------|--------------------------------------------|
+| `file`    | file   | Sim         | Arquivo a ser enviado (JSONL ou texto).     |
+| `purpose` | string | Sim         | Propósito do arquivo (ex: fine-tune).       |
+
+#### Exemplo de Requisição (cURL)
+```http
+  curl https://api.openai.com/v1/files \
+    -X POST \
+    -H "Authorization: Bearer YOUR_API_KEY" \
+    -F "purpose=fine-tune" \
+    -F "file=@seuarquivo.jsonl"
+```
+#### Resposta Exemplo
+
+```http
+   {
+    "id": "file-abc123",
+    "object": "file",
+    "bytes": 12345,
+    "created_at": 1677652288,
+    "filename": "seuarquivo.jsonl",
+    "purpose": "fine-tune",
+    "status": "uploaded"
+  }
+```
 
 <p align="right">
   <a href="https://github.com/Juniorbasck/astro4noobs/blob/main/content/intro/instalacao.md">Próximo -> Instalação</a>
