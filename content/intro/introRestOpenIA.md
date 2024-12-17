@@ -17,7 +17,8 @@ Todas as requisições à API devem ser autenticadas usando uma chave de API. A 
 Authorization: Bearer YOUR_API_KEY
 Content-Type: application/json
 ```
-
+<br/>
+<br/>
 ## 2. Enviar Mensagens para o Agente
 ### Este endpoint permite enviar mensagens para o modelo GPT e obter respostas.
 
