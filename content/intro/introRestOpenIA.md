@@ -18,6 +18,17 @@ Authorization: Bearer YOUR_API_KEY
 Content-Type: application/json
 ```
 
+## 2. Enviar Mensagens para o Agente
+### Este endpoint permite enviar mensagens para o modelo GPT e obter respostas.
+
+#### Retorna um item
+
+```http
+  POST https://api.openai.com/v1/chat/completions
+```
+
+Endpoint:
+
 
 <p align="right">
   <a href="https://github.com/Juniorbasck/astro4noobs/blob/main/content/intro/instalacao.md">Próximo -> Instalação</a>
