@@ -9,7 +9,7 @@
       <a href="https://morphia.com.br"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/MorpphAI/platform.Morph/issues/new]">Report Bug</a>
+    <a href="https://github.com/MorpphAI/platform.Morph/issues/new">Report Bug</a>
     ·
     <a href="https://github.com/MorpphAI/platform.Morph/issues/new">Request Feature</a>
   </p>
