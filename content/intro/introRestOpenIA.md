@@ -28,8 +28,14 @@ Content-Type: application/json
 ```http
   POST https://api.openai.com/v1/chat/completions
 ```
+<br/>
 
-Endpoint:
+| Parâmetro     | Tipo       | Obrigatório | Descrição                                      |
+|---------------|------------|-------------|-----------------------------------------------|
+| `model`       | string     | Sim         | Modelo a ser usado. Exemplo: `gpt-4` ou `gpt-3.5-turbo`. |
+| `messages`    | array      | Sim         | Histórico de mensagens, incluindo a nova mensagem. |
+| `temperature` | float      | Não         | Controla a criatividade da resposta (0.0 a 1.0). Padrão: `0.7`. |
+| `max_tokens`  | integer    | Não         | Número máximo de tokens na resposta. Padrão: `256`. |
 
 
 <p align="right">
