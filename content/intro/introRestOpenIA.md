@@ -1,6 +1,4 @@
-# Leiningen  <img align="right" src="https://github.com/MorpphAI/platform.Morph/blob/main/content/images/morphTrans.png" alt="Imagem da linguagem" width="60">
-
-# 📚 Documentação da API 
+# 📚 Documentação da API <img align="right" src="https://github.com/MorpphAI/platform.Morph/blob/main/content/images/morphTrans.png" alt="Imagem da linguagem" width="60">
 
 ## Índice
 1. [Autenticação](#autenticação)
