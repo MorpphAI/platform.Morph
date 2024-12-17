@@ -58,9 +58,8 @@ são **extremamente apreciadas**
 
 ## Fontes de conteúdo
 
-- *Documentação oficial AstroJs* - [@documentação](https://astro.build/)
-- *O Que é Astro? Uma Introdução ao Popular Gerador de Sites Estáticos* - [@O Que é Astro?](https://kinsta.com/pt/blog/astro-js/)
-
+- *Documentação oficial Supabase* - [@documentação]([https://astro.build/](https://supabase.com/docs))
+- *Documentação oficial Bubble* - [@O Que é Astro?]([https://bubble.io/blog/no-code/])
 ---
 
 <p align="center">
