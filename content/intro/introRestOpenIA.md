@@ -19,7 +19,8 @@ Content-Type: application/json
 ```
 <br/>
 <br/>
-## 2. Enviar Mensagens para o Agente
+
+## 2.  Enviar Mensagens para o Agente
 ### Este endpoint permite enviar mensagens para o modelo GPT e obter respostas.
 
 #### Retorna um item
