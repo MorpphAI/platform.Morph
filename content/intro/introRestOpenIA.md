@@ -35,6 +35,26 @@ Content-Type: application/json
 | `temperature` | float      | Não         | Controla a criatividade da resposta (0.0 a 1.0). Padrão: `0.7`. |
 | `max_tokens`  | integer    | Não         | Número máximo de tokens na resposta. Padrão: `256`. |
 
+#### Exemplo de Requisição
+
+
+```http
+  POST https://api.openai.com/v1/chat/completions
+  Content-Type: application/json
+  Authorization: Bearer YOUR_API_KEY
+  
+  {
+    "model": "gpt-4",
+    "messages": [
+      {"role": "system", "content": "Você é um assistente útil."},
+      {"role": "user", "content": "Qual é a previsão do tempo para hoje?"}
+    ],
+    "temperature": 0.7,
+    "max_tokens": 256
+  }
+
+```
+
 <br/>
 <br/>
 
