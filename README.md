@@ -31,7 +31,7 @@ Bem-vindo à documentação oficial da Morph IA, uma plataforma inovadora voltad
 ## Documentação 
 
 - [Arquitetura](https://github.com/Juniorbasck/astro4noobs/tree/main/content/rest.md)
-  - [API REST](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/whyastro.md)
+  - [API REST](https://github.com/MorpphAI/platform.Morph/blob/main/content/intro/rest.md)
   - [Diagramação](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/instalacao.md)
  
 <!--  - [Hello World!](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/helloworld.md)
