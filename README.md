@@ -6,12 +6,13 @@
   <p align="center">
     <br />
     ![Texto Alternativo](content/images/morph.jpeg)
-    <a href="https://github.com/MorpphAI/platform.Morph/blob/main/content/images/morph.jpeg"><strong>Explore a documentação »</strong></a>
+    <a href="https://morphia.com.br"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Juniorbasck/astro4noobs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Juniorbasck/astro4noobs/issues">Request Feature</a>
+    <a href="https://github.com/Juniorbasck/astro4noobs/
+      issues">Request Feature</a>
   </p>
 </p>
     
@@ -23,9 +24,6 @@ Bem-vindo à documentação oficial da Morph IA, uma plataforma inovadora voltad
 <!-- ROADMAP OF PROJECT -->
 
 ## Ferramentas utilizadas
-
-Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
-são **extremamente apreciadas**
 
 1. bubble - ferramente No Code 
 2. Supabase - Banco de dads 
