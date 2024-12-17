@@ -52,9 +52,24 @@ Content-Type: application/json
     "temperature": 0.7,
     "max_tokens": 256
   }
-
 ```
+#### Resposta Exemplo
 
+```http
+    {
+      "id": "chatcmpl-123",
+      "object": "chat.completion",
+      "created": 1677652288,
+      "choices": [
+        {
+          "index": 0,
+          "message": {"role": "assistant", "content": "A previsão do tempo para hoje é de sol com temperaturas amenas."},
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {"prompt_tokens": 10, "completion_tokens": 15, "total_tokens": 25}
+    }
+```
 <br/>
 <br/>
 
