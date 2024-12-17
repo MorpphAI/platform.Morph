@@ -37,7 +37,8 @@ Content-Type: application/json
 
 <br/>
 <br/>
-### 3. Gerenciamento de Arquivos
+
+## 3. Gerenciamento de Arquivos
 
 Este endpoint permite enviar arquivos para a API. Ele é comumente usado para fine-tuning ou outras aplicações que dependem de dados externos.
 
