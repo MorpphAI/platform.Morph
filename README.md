@@ -31,8 +31,9 @@ Bem-vindo à documentação oficial da Morph IA, uma plataforma inovadora voltad
 ## Documentação 
 
 - [Arquitetura](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro)
-  - [EndPoints](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/whyastro.md)
-  - [Esquema Relacional](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/instalacao.md)
+  - [API REST](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/whyastro.md)
+  - [Diagramação](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/instalacao.md)
+ 
 <!--  - [Hello World!](https://github.com/Juniorbasck/astro4noobs/tree/main/content/intro/helloworld.md)
 - [Conceitos](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)
   - [Estruturas de Dados](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/estruturas.md)
