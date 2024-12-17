@@ -11,7 +11,7 @@ Na próxima seção estarão listados todos os endpoints que estamos utilizando 
 ---
 
 <p align="right">
-  <a href="https://github.com/Juniorbasck/astro4noobs/blob/main/content/intro/whyastro.md">Próximo -> EndPoints que estamos Utilizando</a>
+  <a href="https://github.com/MorpphAI/platform.Morph/blob/main/content/intro/introRestOpenIA.md">Próximo -> EndPoints que estamos Utilizando</a>
 </p>
 
 <p align="left">
