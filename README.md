@@ -1,9 +1,7 @@
 <p align="center">
   <h1 align="center">Morph IA</h1>
   
-<p align="center">
   ![Texto Alternativo](content/images/morph.jpeg)
-</p>
 
 
   <p align="center">
