@@ -56,7 +56,7 @@ são **extremamente apreciadas**
 
 ## Fontes de conteúdo
 
-- *Documentação oficial Supabase* - [Supabase]([(https://supabase.com/docs)]
-- *Documentação oficial Bubble* - [Bubble]([https://bubble.io/blog/no-code/])
+- *Documentação oficial Supabase* - [Supabase](https://supabase.com/docs)  
+- *Documentação oficial Bubble* - [Bubble](https://bubble.io/blog/no-code/)
 ---
 
