@@ -1,4 +1,4 @@
-# Introdução <img align="right" src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="Imagem da linguagem" width="170">
+# Introdução <img align="right" src="https://github.com/MorpphAI/platform.Morph/blob/main/content/images/morphTrans.png" alt="Imagem da linguagem" width="170">
 
 ## Comunicação com a OpenAI via REST API
 
